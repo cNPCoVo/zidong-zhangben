@@ -1,0 +1,9 @@
+{
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "apkUrl": "https://raw.githubusercontent.com/cNPCoVo/zidong-zhangben/main/ZiDongZhangBen-v1.2-android.apk",
+  "sha256": "D5782EE23C93FB50748CABD43ADA07040D8E3767F1F30A9A783734A5CCCEC253",
+  "notes": "新增 GitHub 在线更新：启动时自动检查，也可在设置中手动检查；下载完成后校验 SHA-256，再提示安装。继续包含红包、扫码、免密扣款识别和待分类付款列表。",
+  "publishedAt": "2026-09-22",
+  "minAndroidApi": 26
+}
