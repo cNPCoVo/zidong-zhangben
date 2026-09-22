@@ -2,7 +2,7 @@
   "versionCode": 4,
   "versionName": "1.3.0",
   "apkUrl": "https://raw.githubusercontent.com/cNPCoVo/zidong-zhangben/main/ZiDongZhangBen-v1.3-android.apk",
-  "sha256": "801F908D3E1E3FCCB946397FC235C3CBE36E799F8E44E0E66F9C22EF8F94D14E",
+  "sha256": "F10F4A7D6C348373E21A9E34AB19767399F7B6B0CBF422D01AA6E673CD945859",
   "notes": "修复微信支付识别：增加“微信支付/支付凭证”通知格式；微信不发系统通知时，可在首页开启付款页面识别，通过微信或支付宝的支付完成页面读取金额并弹出分类小窗；设置页新增识别状态诊断。",
   "publishedAt": "2026-09-22",
   "minAndroidApi": 26
