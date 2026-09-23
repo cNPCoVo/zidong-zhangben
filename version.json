@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "1.4.0",
-  "apkUrl": "https://raw.githubusercontent.com/cNPCoVo/zidong-zhangben/main/ZiDongZhangBen-v1.4-android.apk",
-  "sha256": "8B416D7C25485A12F7F5967209BA433AD40CF78E9DA3D041981F47BE86EDC047",
-  "notes": "按用户要求移除付款页面识别和无障碍服务，恢复为仅处理微信、支付宝状态栏通知；保留预算、待分类付款、分类小窗和在线更新。",
-  "publishedAt": "2026-09-22",
+  "versionCode": 7,
+  "versionName": "1.5.0",
+  "apkUrl": "https://raw.githubusercontent.com/cNPCoVo/zidong-zhangben/main/ZiDongZhangBen-v1.5-android.apk",
+  "sha256": "EC2CA140A5235F081189E1BF7E46B7297025D835666491E2DF5CDC76BACEDA8E",
+  "notes": "重新加入微信、支付宝付款页面识别，支持付款、转账和红包的金额读取与完成状态确认；悬浮分类窗改用短时前台服务；新增 CSV、TXT、ZIP 账单导入、预览和交易号去重。",
+  "publishedAt": "2026-09-23",
   "minAndroidApi": 26
 }
